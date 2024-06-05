@@ -1,0 +1,21 @@
+#container {
+	position: relative;
+	top: 15px;
+	left: 0px;
+	text-align: center;
+	background:#6f6f6f;
+}
+#contenido {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: 719px;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+}
+.footer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #ffffff;
+}
